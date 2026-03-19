@@ -1,0 +1,7 @@
+streamlit
+transformers
+torch
+scipy
+huggingface_hub
+# Optional for faster Xet-backed downloads:
+# hf_xet
